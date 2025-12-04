@@ -1,0 +1,9 @@
+# .gitignore
+**/.env
+venv/
+__pycache__/
+*.pyc
+
+
+readme.md
+# ignore for now, but update at end of project
