@@ -53,7 +53,7 @@ streamlit run visualisedata.py
 * Streamlit will start a local server and provide a URL (usually `http://localhost:8501`).
 * Open this URL in your browser to view the interactive app.
 
-5. **Interact with the app**
+6. **Interact with the app**
 
 * Use the fuel selection multiselect to pick fuels.
 * View both charts:
