@@ -1,21 +1,3 @@
-
-source venv/bin/activate
-pip install -r requirements.txt
-streamlit run visualisedata.py
-
-
-Planned ext steps:
-1. Total output from renewables vs non-renewables
-2. Historic data from longer 
-3. make data frame filterable
-4. clean up code 
-
-
-
-
-
-
-
 # Renewable Power Monitor
 
 Lightweight project to fetch and visualise UK electricity generation mix using the Carbon Intensity API.
@@ -104,9 +86,10 @@ If the API requires a key, download it and store it in the project `.env` file.
 ## Planned next steps
 
 1. Historic data from longer ranges  
-2. Make data frame filterable (by date, fuel type, region)  
-3. Clean up and modularise code
-4. Build model to predict output for one wind farm - will need to use new APIs (Assumed National Grid and Met Office)
+2. Make data frame filterable (by date, fuel type, region) 
+3. Deploy streamlit page 
+4. Clean up and modularise code
+5. Build model to predict output for one wind farm - will need to use new APIs (Assumed National Grid and Met Office)
 
 ## Notes
 

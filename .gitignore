@@ -3,6 +3,6 @@
 venv/
 __pycache__/
 *.pyc
-
+generation_mix.csv
 
 # ignore for now, but update at end of project
