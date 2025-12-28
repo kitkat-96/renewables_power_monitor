@@ -87,9 +87,10 @@ If the API requires a key, download it and store it in the project `.env` file.
 ## Planned next steps
 
 1. Historic data from longer ranges  
-2. Make data frame filterable (by date, fuel type, region)  
-3. Clean up and modularise code
-4. Build model to predict output for one wind farm - will need to use new APIs (Assumed National Grid and Met Office)
+2. Make data frame filterable (by date, fuel type, region) 
+3. Deploy streamlit page 
+4. Clean up and modularise code
+5. Build model to predict output for one wind farm - will need to use new APIs (Assumed National Grid and Met Office)
 
 ## Notes
 
