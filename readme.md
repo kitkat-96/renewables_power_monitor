@@ -36,9 +36,11 @@ pip install -r requirements.txt
 
 > Ensure `requirements.txt` includes `pandas`, `streamlit`, `plotly`, and any other required packages.
 
-Pull from the Carbon Intensity API
+4. **Pull from the Carbon Intensity API**
 
+```bash
 python fetchdata.py
+```
 
 This step retrieves historical electricity generation data and stores it locally.
 
