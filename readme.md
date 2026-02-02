@@ -87,7 +87,7 @@ If the API requires a key, download it and store it in the project `.env` file.
 
 ## Planned next steps
 
-1. Historic data from longer ranges  
+1. Smooth data  
 2. Make data frame filterable (by date, fuel type, region) 
 3. Deploy streamlit page 
 4. Clean up and modularise code
